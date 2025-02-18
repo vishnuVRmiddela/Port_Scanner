@@ -40,7 +40,8 @@ python port_scanner.py 192.168.1.1 20 100
 - `<end_port>` - The ending port number of the range
 
 ### Preview
-image.png
+https://github.com/vishnuVRmiddela/Port_Scanner/blob/f95941ef8212d74ebe81de0d493df69d6a619ffd/image.png
+
 
 
 ## ⚠️ Disclaimer
