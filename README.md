@@ -1,8 +1,3 @@
-Here is a well-structured `README.md` file for your GitHub repository:  
-
----
-
-```markdown
 # Port Scanner 🔍
 
 A simple and efficient **Port Scanner** built with Python to scan open ports on a target machine. This tool helps in identifying open ports and potential security vulnerabilities.
@@ -45,7 +40,7 @@ python port_scanner.py 192.168.1.1 20 100
 - `<end_port>` - The ending port number of the range
 
 ### Preview
-
+image.png
 
 
 ## ⚠️ Disclaimer
