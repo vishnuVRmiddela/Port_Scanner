@@ -51,21 +51,6 @@ This tool is intended for educational and ethical purposes **only**. Do not scan
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## 📬 Contact
-Developed by **M. Vishnu Vardhan Reddy**  
-📧 Email: [your-email@example.com]  
+Developed by **M. Vishnu Vardhan Reddy**    
 🔗 GitHub: [VishnuVRmiddela](https://github.com/vishnuVRmiddela)  
 
----
-
-⭐ **If you find this project useful, consider giving it a star!** ⭐
-```
-
----
-
-### What this `README.md` includes:
-✅ **Project description**  
-✅ **Installation & usage instructions**  
-✅ **Disclaimer for ethical use**  
-✅ **Contact details**  
-
-Let me know if you want any modifications! 🚀
